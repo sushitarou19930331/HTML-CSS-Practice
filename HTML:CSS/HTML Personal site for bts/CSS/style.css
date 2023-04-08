@@ -1,0 +1,12 @@
+body{background-color: rgba(243, 234, 182, 0.938);}
+
+hr{background-color: rgb(228, 185, 13);
+  border-style:none;
+  height: 1px;}
+
+
+h3{color: rgb(228, 135, 13)}
+
+h1{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+.top{ margin: 0 auto;}
