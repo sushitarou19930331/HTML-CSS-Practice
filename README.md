@@ -1,1 +1,2 @@
-# HTML-CSS-practice with Bootstrap. I created website for a cute dog mobile app.
+# HTML-CSS-practice with Bootstrap.  
+Website to promote a cute dog mobile app.
